@@ -34,7 +34,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com:AlexZhelPy/CloudSyncApplication.git
+   git clone https://github.com/AlexZhelPy/CloudSyncApplication.git
    ```
    
 2. Установите зависимости:
